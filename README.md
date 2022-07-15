@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hight0werdodgev
 - 👀 I’m interested in creating web sites
-- 🌱 I’m currently learning php, javascript, yii2, ReactJS
+- 🌱 I’m currently learning php, yii2, html, css
 - 📫 How to reach me: Telegram - @nameless_python \\\ email - hight0werdodgev@gmail.com
 
 <!---
